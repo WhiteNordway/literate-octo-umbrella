@@ -1,5 +1,7 @@
 def max_of_list(lst):
    return max(lst)
+
+
 if __name__ == "__main__":
    quantity = int(input("Введите число элементов массива: "))
    lst = input("Введите элементы массива через пробел: ").split()
